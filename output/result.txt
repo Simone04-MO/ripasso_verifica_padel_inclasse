@@ -1,0 +1,3 @@
+shop name: matteo
+average price: 123.62636363636364
+rackets quantity: 143

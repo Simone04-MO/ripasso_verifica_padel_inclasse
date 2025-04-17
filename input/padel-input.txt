@@ -1,0 +1,56 @@
+brand: Bolt
+model: master3000
+size: L
+weight: 200
+quantity: 20
+price_per_piece: 89.99
+***
+brand: Bolt
+model: master5000
+size: M
+weight: 175
+quantity: 8
+price_per_piece: 129.99
+***
+brand: PadelBat
+model: Pro
+size: S
+weight: 220
+quantity: 35
+price_per_piece: 75.99
+***
+brand: PadelBat
+model: ProX
+size: M
+weight: 195
+quantity: 22
+price_per_piece: 109.99
+***
+brand: PadelBat
+model: ProXMax
+size: S
+weight: 189
+quantity: 9
+price_per_piece: 159.99
+***
+brand: Blastoise
+model: BeachParty
+size: L
+weight: 235
+quantity: 26
+price_per_piece: 69.99
+***
+brand: Blastoise
+model: SeaMatch
+size: S
+weight: 199
+quantity: 16
+price_per_piece: 99.99
+***
+brand: Blastoise
+model: ContinentWar
+size: M
+weight: 102
+quantity: 7
+price_per_piece: 699.99
+***
